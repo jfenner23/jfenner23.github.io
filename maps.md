@@ -1,6 +1,6 @@
 ---
 layout: resume
-menuorder: 3
+menuorder: 5
 menutitle: Maps
 ---
 ## Currently
